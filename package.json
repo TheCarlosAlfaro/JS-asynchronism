@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Working with asynchronism in JavaScript",
   "main": "src/index.js",
-  "scripts": {},
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
   "keywords": [
     "callbacks",
     "promises",
