@@ -1,0 +1,14 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "Working with asynchronism in JavaScript",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Carlos Alfaro",
+  "license": "MIT"
+}
